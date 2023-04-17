@@ -1,1 +1,1 @@
-# log-reg_session
+# Login and Registration system with session.
