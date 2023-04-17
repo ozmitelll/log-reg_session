@@ -5,5 +5,6 @@ module.exports = {
     options: {
         dialect: process.env.DB_DIALECT,
         host : process.env.DB_HOST,
+        logging: false
     },
 }
